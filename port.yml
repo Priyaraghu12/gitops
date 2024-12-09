@@ -1,0 +1,5 @@
+- identifier: "gitops"
+  blueprint: service
+  properties:
+    type: "frontend12"
+    lifecycle: "Experimentcheckout22"
